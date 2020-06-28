@@ -1,6 +1,6 @@
 # React Trello Clone
 
-A small Trello clone built in React and Redux.
+A small Trello clone built in React and Redux. This project was a part of [Grid Dynamics](https://www.griddynamics.com) internship.
 
 ## Usage
 
